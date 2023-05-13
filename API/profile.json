@@ -5,5 +5,9 @@
     },
     "name": "Hi, I'm Binh",
     "quote": "When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too.",
-    "author": "-Paulo Coelho-"
+    "author": "-Paulo Coelho-",
+    "contatc" {
+        "facebook": "https://www.facebook.com/profile.php?id=100030906050783",
+        "ig":"https://www.instagram.com/nvbinh.7/"
+    }
 }
