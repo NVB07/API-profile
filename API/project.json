@@ -1,55 +1,55 @@
 {
     "random": {
         "path": "http://...",
-        "image": "sddsd",
+        "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/random.jpg",
         "name": "Random with canvas JS",
         "id": 1
     },
     "weather": {
         "path": "http://...",
-        "image": "sddsd",
+        "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/weather.jpg",
         "name": "Weather ",
         "id": 2
     },
     "bgtool": {
         "path": "http://...",
-        "image": "sddsd",
+        "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/color.jpg",
         "name": "Background tool",
         "id": 3
     },
     "music": {
         "path": "http://...",
-        "image": "sddsd",
+        "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/music.jpg",
         "name": "Music",
         "id": 4
     },
     "profile.v1": {
         "path": "http://...",
-        "image": "sddsd",
+        "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/profilev1.jpg",
         "name": "Profile ",
         "id": 5
     },
     "software": {
         "path": "http://...",
-        "image": "sddsd",
+        "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/software.jpg",
         "name": "Software",
         "id": 6
     },
     "game": {
         "path": "http://...",
-        "image": "sddsd",
+        "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/tictactoe.png",
         "name": "TicTacToe",
         "id": 7
     },
     "clock": {
         "path": "http://...",
-        "image": "sddsd",
+        "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/clock.png",
         "name": "Clock",
         "id": 8
     },
     "caculator": {
         "path": "http://...",
-        "image": "sddsd",
+        "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/caculator.png",
         "name": "Caculator",
         "id": 9
     }
