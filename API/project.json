@@ -2,66 +2,63 @@
     "data":[
          {
             "title": "random",
-            "path": "http://...",
+            "path": "https://nvb07.github.io/UserProfile/project/random/",
             "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/random.jpg",
-            "name": "Random with canvas JS",
-            "id": 1
+            "name": "Random with canvas JS"
         },
         {
             "title": "Weather",
-            "path": "http://...",
+            "path": "https://nvb07.github.io/UserProfile/project/weather/",
             "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/weather.jpg",
-            "name": "Weather ",
-            "id": 2
+            "name": "Weather "
         },
          {
             "title": "Background",
-            "path": "http://...",
+            "path": "https://nvb07.github.io/UserProfile/project/colorTool/",
             "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/color.jpg",
-            "name": "Background tool",
-            "id": 3
+            "name": "Background tool"
         },
         {
             "title": "Music",
-            "path": "http://...",
+            "path": "https://nvb07.github.io/MusicPlayer/",
             "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/music.jpg",
-            "name": "Music",
-            "id": 4
+            "name": "Music"
         },
          {
             "title": "Profile",
-            "path": "http://...",
+            "path": "https://nvb07.github.io/starlight/",
             "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/profilev1.jpg",
-            "name": "Profile ",
-            "id": 5
+            "name": "Profile v1"
+        },
+        {
+            "title": "Profile",
+            "path": "https://nvb07.github.io/UserProfile/",
+            "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/profilev1.jpg",
+            "name": "Profile v2"
         },
          {
             "title": "Software",
-            "path": "http://...",
+            "path": "https://softwarenvb.vercel.app/",
             "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/software.jpg",
-            "name": "Software",
-            "id": 6
+            "name": "Software"
         },
          {
             "title": "TicTacToe",
-            "path": "http://...",
+            "path": "https://tictactoe-nvb07.vercel.app/",
             "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/tictactoe.png",
-            "name": "TicTacToe",
-            "id": 7
+            "name": "TicTacToe"
         },
          {
             "title": "Clock",
-            "path": "http://...",
+            "path": "https://clock-bice-two.vercel.app/",
             "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/clock.png",
-            "name": "Clock",
-            "id": 8
+            "name": "Clock"
         },
          {
             "title": "Caculator",
-            "path": "http://...",
+            "path": "https://caculator-simple.vercel.app/",
             "image": "https://raw.githubusercontent.com/NVB07/API-profile/main/photos/Prj/caculator.png",
-            "name": "Caculator",
-            "id": 9
+            "name": "Caculator"
         }
     ]
 }
